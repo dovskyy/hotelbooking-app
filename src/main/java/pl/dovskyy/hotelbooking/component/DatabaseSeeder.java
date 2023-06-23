@@ -1,11 +1,9 @@
-package pl.dovskyy.hotelbooking;
+package pl.dovskyy.hotelbooking.component;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.stereotype.Component;
-
-import java.util.ArrayList;
-import java.util.List;
+import pl.dovskyy.hotelbooking.repository.BookingRepository;
 
 
 //This class implements the CommandLineRunner. The CommandLineRunners start to execute after the beans and application context is created.

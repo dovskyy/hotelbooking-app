@@ -1,7 +1,9 @@
-package pl.dovskyy.hotelbooking;
+package pl.dovskyy.hotelbooking.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
+import pl.dovskyy.hotelbooking.repository.BookingRepository;
+import pl.dovskyy.hotelbooking.model.HotelBooking;
 
 import java.util.List;
 

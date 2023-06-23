@@ -1,4 +1,4 @@
-package pl.dovskyy.hotelbooking;
+package pl.dovskyy.hotelbooking.model;
 
 import lombok.Data;
 

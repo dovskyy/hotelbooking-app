@@ -1,4 +1,4 @@
-package pl.dovskyy.hotelbooking;
+package pl.dovskyy.hotelbooking.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -10,4 +10,5 @@ public class ViewController {
     public String index() {
         return "index";
     }
+
 }
