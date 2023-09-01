@@ -1,5 +1,3 @@
-Certainly, here's a README.md file for your Spring Boot project named HotelBooking, which is designed for managing hotel reservations:
-
 # HotelBooking - Hotel Reservation Management App
 
 HotelBooking is a Spring Boot application that allows you to manage hotel reservations. This project serves as a demonstration of various Spring Boot concepts, including controllers, repositories, and models.
